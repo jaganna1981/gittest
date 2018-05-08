@@ -1,0 +1,12 @@
+git init
+git remote add origin "https://github.com/jaganna1981/gittest.git" -- One time activity
+
+git pull origin master - To pull the changes done to the server
+git status - Shows the number of files that are changed and yet to be committed
+git commit - commit the changes done to the files
+git add "filename"- adds file to the index
+
+git add -A -- Adds multiple files to the index
+git commit -a -m "m is for the message"-- commits all the files in the index
+
+git log
