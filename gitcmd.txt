@@ -10,3 +10,10 @@ git add -A -- Adds multiple files to the index
 git commit -a -m "m is for the message"-- commits all the files in the index
 
 git log
+
+git branch branchname - creates new branch
+git checkout branchname - moves to the respective branches
+
+Merge Branch
+
+git merge branchname - always checkout in destination branch and run this command
